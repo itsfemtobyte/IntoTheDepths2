@@ -1,4 +1,5 @@
 v0.5.2 - Monster Desync Fix 
 
-Master client should control the monster movement. Everyone else should watch
-If you experience any desync bugs, please report them to the Discord.
+Master client should control the monster movement. Everyone else should watch, and sync that up to themselves!
+
+If you experience any desync bugs, please report them to the Discord. Thanks for testing!
