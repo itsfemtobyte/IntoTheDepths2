@@ -1,3 +1,4 @@
-This board functions the same as it did in the previous build! 
+v0.5.2 - Monster Desync Fix 
 
-It is here to contain news, info, scheduled EVENTs, etc! It will get much more use after launch.
+Master client should control the monster movement. Everyone else should watch
+If you experience any desync bugs, please report them to the Discord.
